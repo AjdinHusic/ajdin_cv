@@ -86,8 +86,7 @@ Zuverlässiger Facility Manager und erfahrener Kraftfahrer mit langjähriger Pra
 
 ### Schulische Ausbildung
 
-- **High-School-Abschluss** — Tuzla, Bosnien und Herzegowina  
-- **VMBO** — Niederlande (mittlerer Schulabschluss / berufsorientierter Zweig)
+- **High-School-Abschluss** — Tuzla, Bosnien und Herzegowina
 
 ---
 
@@ -104,13 +103,3 @@ Klassen **A, B, C, C1, CE, C1E** (EU-/deutsches Scheinsystem)
 **IT:** Microsoft Word, Excel, Outlook, Adobe Acrobat, QuickBooks Pro  
 
 **Persönlich:** Belastbarkeit, Problemlösung, Führung und Teamarbeit, administrative Organisation, Eigeninitiative
-
----
-
-## Sprachen
-
-| Sprache   | Niveau              |
-| --------- | ------------------- |
-| Bosnisch  | Muttersprache       |
-| Deutsch   | Verhandlungssicher  |
-| Englisch  | Verhandlungssicher  |

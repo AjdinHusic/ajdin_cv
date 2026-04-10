@@ -86,8 +86,7 @@ Reliable facility manager and experienced professional driver with a long track 
 
 ### Formal Education
 
-- **High school diploma** — Tuzla, Bosnia and Herzegovina  
-- **VMBO** — Netherlands (secondary vocational track / intermediate secondary qualification)
+- **High school diploma** — Tuzla, Bosnia and Herzegovina
 
 ---
 
@@ -104,13 +103,3 @@ Categories **A, B, C, C1, CE, C1E** (EU / German licence classes)
 **Software:** Microsoft Word, Excel, Outlook, Adobe Acrobat, QuickBooks Pro  
 
 **Personal:** Reliability, problem solving, leadership and teamwork, administrative support, initiative
-
----
-
-## Languages
-
-| Language | Level     |
-| -------- | --------- |
-| Bosnian  | Native    |
-| German   | Proficient |
-| English  | Proficient |
