@@ -43,13 +43,13 @@ Ervaren Senior Software Engineer met 10+ jaar ervaring in full-stack ontwikkelin
 **Cognizant** (klant: PGB Pensioendiensten) | *December 2025 - April 2026*
 
 - **Belangrijkste Verantwoordelijkheden:**
-  - Ontwikkeling van een digitaal participantenportaal (emportal) voor pensioendeelnemers
+  - Ontwikkeling binnen een **enterprise-applicatie** (participantenportaal / emportal) voor pensioendeelnemers, met hoge eisen aan security, compliance, beschikbaarheid en onderhoudbaarheid
   - Bouwen van functionaliteit waarmee gebruikers hun pensioeninformatie kunnen inzien, documenten kunnen downloaden en hun toekomstige pensionering kunnen plannen op basis van hun pensioenregelingen en -overeenkomsten
   - Bijdragen aan een gebruiksvriendelijke, veilige omgeving voor pensioenparticipanten in een SCRUM-team
 
 - **Gebruikte Technologieën:** .NET, .NET Framework, jQuery, Optimizely CMS, IIS, Azure, Windows, SCRUM
 - **Belangrijkste Prestaties:**
-  - Ontwikkelde onderdelen van het participantenportaal voor PGB Pensioendiensten, met focus op inzicht in pensioen, documentbeheer en pensioenplanning
+  - Ontwikkelde onderdelen van het enterprise participantenportaal voor PGB Pensioendiensten, met focus op inzicht in pensioen, documentbeheer en pensioenplanning
   - Werkte in een agile SCRUM-omgeving met .NET Framework en Optimizely CMS voor contentbeheer en frontend-interactie
 
 ---
@@ -58,7 +58,7 @@ Ervaren Senior Software Engineer met 10+ jaar ervaring in full-stack ontwikkelin
 **Eurofins Agro & Horti NL** | *Februari 2024 - December 2025*
 
 - **Belangrijkste Verantwoordelijkheden:**
-  - Leiding geven aan de ontwikkeling van full-stack applicaties voor agrarische en tuinbouwkundige oplossingen
+  - Leiding geven aan de ontwikkeling van **enterprise** full-stack applicaties voor agrarische en tuinbouwkundige oplossingen (integraties, operationele continuïteit, meerdere gebruikersgroepen)
   - Ontwerpen en implementeren van schaalbare software architecturen
   - Opstellen van solution architectuur, technische standaarden en architectuurprincipes voor onderhoudbaarheid en uitbreidbaarheid
   - Ontwerpen van domein- en applicatielagen met duidelijke scheiding van verantwoordelijkheden
@@ -67,9 +67,12 @@ Ervaren Senior Software Engineer met 10+ jaar ervaring in full-stack ontwikkelin
   - Mentoring van developers en uitvoeren van architectuur- en code reviews
   - Modelleren en documenteren met UML om architectuur en domeinen te verduidelijken
   - Proof of concepts opzetten en uitvoeren om technische en architectuurkeuzes te valideren voordat ze grootschalig worden uitgerold
+  - Architectuur vastleggen en bespreekbaar maken met het **C4-model** (context-, container- en componentniveau), zodat teams en stakeholders dezelfde systeemgrenzen en verantwoordelijkheden delen
+  - **IaC:** **Bicep** voor declaratieve, ARM-gestuurde Azure-resources; **Terraform** voor declaratieve provisioning met state en Azure-provider waar dat beter paste — naast elkaar ingezet, vastgelegd in **Git** en **CI/CD** voor herhaalbare omgevingen
 
-- **Gebruikte Technologieën:** C#, ASP.NET Core, React, TypeScript, MySQL, Docker, Kubernetes, Terraform, Azure DevOps, Azure, IIS, Windows
+- **Gebruikte Technologieën:** C#, ASP.NET Core, React, TypeScript, MySQL, Microservices, Docker, Kubernetes, Terraform, Bicep, Azure, Azure Portal, Microsoft Entra ID (Azure AD), Azure DevOps, CI/CD, YAML, IIS, Windows
 - **Belangrijkste Prestaties:**
+  - **C4 in de praktijk:** o.a. een containerdiagram voor de GIS- en API-laag gebruikt om integraties, datastromen en ownership per component te verduidelijken en refactor- en uitbreidingsbeslissingen te onderbouwen
   - Ontwikkelde geavanceerde GIS operaties met aangepaste algoritmes voor polygon beheer en ruimtelijke dataverwerking
   - Implementeerde geavanceerde mapping oplossingen voor agrarische en tuinbouwkundige applicaties
   - Creëerde efficiënte ruimtelijke algoritmes om polygon operaties te optimaliseren en systeemprestaties te verbeteren
@@ -87,16 +90,16 @@ Ervaren Senior Software Engineer met 10+ jaar ervaring in full-stack ontwikkelin
   - Ontworpen en gebouwd .NET Web API op basis van Clean Architecture principes
   - Geleid bij architectuur en ontwikkeling van cross-platform Flutter mobile app
   - Overzien van teamwerk, uitvoeren van code reviews en begeleiden van developers in ontwerpkeuzes en best practices
-  - Opgezet en geïmplementeerd DevOps pipelines en deploymentstrategie met Docker
+  - Opgezet en geïmplementeerd DevOps pipelines (CI/CD, YAML) en deploymentstrategie met Docker en Kubernetes
   - Bepaald release- en deploymentaanpak voor stabiele en voorspelbare opleveringen
   - Sturen op onderhoudbaarheid, modulariteit, testbaarheid en schaalbaarheid van het platform
 
-- **Gebruikte Technologieën:** Next.js (SSR), React, .NET 9, ASP.NET Web API, Clean Architecture, Flutter, PostgreSQL, Docker, Linux Ubuntu, Portainer, GitHub Actions, CI/CD Pipelines, Self-hosted Registry
+- **Gebruikte Technologieën:** Next.js (SSR), React, .NET 9, ASP.NET Web API, Clean Architecture, Flutter, PostgreSQL, Docker, Kubernetes, Linux Ubuntu, Portainer, GitHub Actions, YAML, CI/CD Pipelines, Self-hosted Registry
 - **Belangrijkste Prestaties:**
   - Ontwierp en implementeerde de complete platformarchitectuur voor web, admin, API en mobile
   - Leverde employer portal (SSR), admin portal en API-landschap als samenhangende architectuur
   - Verbeterde teamkwaliteit en onderhoudbaarheid via structurele code reviews, architectuur-richtlijnen en technische coaching
-  - Realiseerde geautomatiseerde CI/CD en een robuuste Docker deploymentstrategie voor snellere en betrouwbaardere releases
+  - Realiseerde geautomatiseerde CI/CD (YAML) en een robuuste Docker- en Kubernetes-deploymentstrategie voor snellere en betrouwbaardere releases
 
 ---
 
@@ -109,14 +112,14 @@ Ervaren Senior Software Engineer met 10+ jaar ervaring in full-stack ontwikkelin
   - Ontwierp en implementeerde een custom query builder architectuur voor flexibele en onderhoudbare data-querying
   - Bouwde responsieve frontend applicaties met React, TypeScript, en moderne state management
   - Stuurde op onderhoudbaarheid via duidelijke lagen, herbruikbare componenten en consistente code standaarden
-  - Configureerde en onderhield DevOps infrastructuur met Docker en Ubuntu servers
+  - Configureerde en onderhield DevOps infrastructuur met Docker, Kubernetes en Ubuntu servers
 
 - **Gebruikte Technologieën:** C#, ASP.NET Core, Web API, FluentValidation, JWT Authentication, MySQL, Entity Framework Core, LINQ, Dapper, Clean Architecture, CQRS, MediatR, AutoMapper, React, Vue, TypeScript, Redux, React Query, React Router, Jotai, Ant Design, Material UI, Emotion, VPS, Ubuntu Server, Docker, Docker Compose, Kubernetes, Nginx, Portainer, Raspberry Pi, Python, WebSockets, Node.js, React Native
 - **Belangrijkste Prestaties:**
   - Leverde succesvol meerdere full-stack applicaties over 4+ jaar
   - Implementeerde moderne architecturale patronen die code onderhoudbaarheid structureel verbeterden
   - Realiseerde met de custom query builder architectuur een flexibel fundament voor complexe filter- en zoekscenario's zonder toename van technische schuld
-  - Stelde uitgebreide DevOps pipeline in met containerisatie
+  - Stelde uitgebreide DevOps pipeline in met containerisatie en Kubernetes
 
 ---
 
@@ -134,17 +137,19 @@ Ervaren Senior Software Engineer met 10+ jaar ervaring in full-stack ontwikkelin
 
 ---
 
-### Software Developer
-**U-Team Recruitment** | *Maart 2018 - Maart 2023*
+### Freelance Software Developer
+**U-Team Recruitment** | *Maart 2016 - Maart 2021*
 
 - **Belangrijkste Verantwoordelijkheden:**
-  - Ontwikkelde recruitment en matching software oplossingen met .NET MVC
-  - Bouwde frontend applicaties voor technisch recruitment platform
-  - Werkte parttime terwijl andere verplichtingen werden onderhouden
+  - Ontwikkelde recruitment- en matchingsoftware met **.NET** (.NET MVC / .NET Framework) en evoluerende webstack
+  - **Applicatieontwerp** en datamodel: functionele modules, API-grenzen en persistentielaag in lijn met businessregels
+  - Ontwerp, implementatie en optimalisatie van **MySQL**-schema’s en queries voor matching, zoek- en rapportagescenario’s
+  - Bouwde frontend-onderdelen voor het technisch recruitment platform
+  - Werkte **parttime** naast studie en andere verplichtingen
 
-- **Gebruikte Technologieën:** .NET MVC, Frontend Development
+- **Gebruikte Technologieën:** .NET, .NET MVC, C#, Applicatieontwerp, MySQL, Entity Framework (waar van toepassing), Frontend Development, HTML, CSS, JavaScript
 - **Belangrijkste Prestaties:**
-  - Droeg bij aan technisch recruitment platform ontwikkeling over 3+ jaar
+  - Droeg bij aan het technische recruitment platform over **7+ jaar**, met focus op onderhoudbare .NET-backends en robuuste data-laag (MySQL)
 
 ---
 
